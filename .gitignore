@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+venv/
+.env/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (do not commit the ASHRAE dataset)
+data/*.csv
+data/*.xlsx
+
+# Model artifacts (too large for git)
+saved_models/*.pth
+saved_models/*.pkl
+saved_models/*.npz
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Figures (generated, can be reproduced)
+figures/*.png
+!figures/.gitkeep
