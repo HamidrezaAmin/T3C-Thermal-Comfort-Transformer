@@ -6,7 +6,7 @@
 
 > **Transformer-Based Thermal Comfort Classification Using the ASHRAE II Dataset for Smart Building Applications**
 >
-> *Hamid, Saeid, Lesan, Avijit, et al.*
+
 
 This repository contains the official implementation of the **Temporal Transformer for Thermal Comfort (T3C)** model and the **Physics-Informed Synthetic Sequential Generation (PISSG)** algorithm, as described in our paper.
 
