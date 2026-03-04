@@ -81,7 +81,7 @@ pip install -r requirements.txt
 
 ### 2. Prepare the Dataset
 
-Download the ASHRAE Global Thermal Comfort Database II and place the CSV file in `data/`. See [`data/README.md`](data/README.md) for detailed instructions.
+The preprocessed dataset (`df1.csv`) is already included in the `data/` folder. It was derived from the ASHRAE Global Thermal Comfort Database II with feature selection, cleaning, and category encoding applied. See [`data/README.md`](data/README.md) for details.
 
 ### 3. Train the Model
 
